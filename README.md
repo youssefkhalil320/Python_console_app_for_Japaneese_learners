@@ -1,6 +1,19 @@
 #### Hi there!
-Here is the project descriptin:
-*[this is a simple console python game to help japaneese learners.]
-*[it is plays the sounds of some japaneese words and alphapets to help Japaneese learners to get the rigth proninciation]
 
-###Note: Do not forget to Edit the path of the sound files in the code to there path on your local machine.
+## General info
+simple python console application to help japaneese learners in there journey.
+
+## usage
+* [To help Japaneese lectures to hear the sound of the words](#general-info)
+* [To provide the right prononciation of the Japaneese hiragana](#technologies)
+
+	
+## Technologies
+Project is created with:
+* python
+* playsound package
+
+	
+## Great thank
+To www.marugoto.org  i got the free voice tracks:
+
