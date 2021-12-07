@@ -1,4 +1,4 @@
-##### Hi there!
+# Hi there!
 
 ## General info
 simple python console application to help japaneese learners in there journey.
