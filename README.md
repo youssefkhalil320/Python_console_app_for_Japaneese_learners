@@ -8,15 +8,24 @@ simple python console application to help japaneese learners in there journey.
 * [To provide the right prononciation of the Japaneese hiragana]
 
 	
-## Technologies
-Project is created with:
-* python
-* playsound package
+## Usage
 
-	
-## Great thank
-To www.marugoto.org  i got the free voice tracks:
+### Step 1: Create a Virtual Python Environment
 
-## Note:
-do not forget to change the directory of the sound files in the codde.
+First, create a new virtual environment to ensure all dependencies are isolated from your main Python installation.
 
+```bash
+conda create -n Japanese-learner python=3.9 
+```
+
+### Step 2: Activate the Environment
+
+```bash
+conda activate Japanese-learner
+```
+
+### Step 3: Install the Requirements
+
+```bash
+pip install -r requirements.txt
+```
